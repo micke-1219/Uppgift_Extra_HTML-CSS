@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="10" viewBox="0 0 66 10">
+  <g id="Bullet" transform="translate(-927 -4356)">
+    <g id="_03" data-name="03" transform="translate(983 4356)" fill="none" stroke="#adadad" stroke-width="1">
+      <circle cx="5" cy="5" r="5" stroke="none"/>
+      <circle cx="5" cy="5" r="4.5" fill="none"/>
+    </g>
+    <g id="_02" data-name="02" transform="translate(955 4356)" fill="none" stroke="#adadad" stroke-width="1">
+      <circle cx="5" cy="5" r="5" stroke="none"/>
+      <circle cx="5" cy="5" r="4.5" fill="none"/>
+    </g>
+    <path id="_01" data-name="01" d="M5,0A5,5,0,1,1,0,5,5,5,0,0,1,5,0Z" transform="translate(927 4356)" fill="#ff6803"/>
+  </g>
+</svg>
